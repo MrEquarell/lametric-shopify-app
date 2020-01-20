@@ -7,8 +7,18 @@ Open with Visual Studio Code.
 
 ## Install React, ReactDOM, and Next.js
 
-Write this command line in your terminal from your project folder.<br />
+Write this command line in your terminal from your root project folder.<br />
 npm install --save react react-dom next
+
+## Install ngrok
+
+Write this command line in your terminal from your root project folder.<br />
+npm install ngrok -g
+
+## Install koa
+
+Write this command line in your terminal from your root project folder.<br />
+npm install --save koa @shopify/koa-shopify-auth dotenv koa-session isomorphic-fetch
 
 ### `npm run dev`
 
