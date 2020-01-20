@@ -1,7 +1,13 @@
+import { Layout, Page, TextStyle } from '@shopify/polaris';
+
 const Index = () => (
-    <div>
-      <p>This App uses React, Node.js, Next.js, Polaris, Shopify and GraphQL.</p>
-    </div>
+    <Page>
+      <Layout>
+        <TextStyle variation="positive">
+          This app uses React, Node.js and Next.js
+        </TextStyle>
+      </Layout>
+    </Page>
   );
   
 export default Index;
