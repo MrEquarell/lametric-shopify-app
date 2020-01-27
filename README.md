@@ -1,4 +1,4 @@
-This project was built with React and Node.js.
+This project was built with React, Node.js, Shopify API and Polaris.
 
 ## Install LaMetric x Shopify App
 
