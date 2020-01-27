@@ -20,6 +20,11 @@ npm install ngrok -g
 Write this command line in your terminal from your root project folder.<br />
 npm install --save koa @shopify/koa-shopify-auth dotenv koa-session isomorphic-fetch
 
+## Install App Bridge React and js-cookie
+
+Write this command line in your terminal from your root project folder.<br />
+npm install --save @shopify/app-bridge-react js-cookie
+
 ### `npm run dev`
 
 Runs the app in the development mode.<br />
